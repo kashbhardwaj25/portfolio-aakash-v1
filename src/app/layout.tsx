@@ -57,7 +57,7 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "Person",
               name: "Aakash Bhardwaj",
-              url: "https://yashsharma.com",
+              url: "https://aakashbhardwaj.in",
               image: "/images/profile.jpeg",
               sameAs: [
                 "https://github.com/kashbhardwaj25",

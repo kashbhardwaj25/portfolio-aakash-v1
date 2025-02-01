@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://sharmayash.com/sitemap.xml 
+Sitemap: https://www.aakashbhardwaj.in/sitemap.xml 
