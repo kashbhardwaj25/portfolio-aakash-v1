@@ -62,11 +62,11 @@ const RecentProjects = () => {
       description:
         "Glue.is is a platform designed to help creators and brands enhance follower engagement and increase monetization. It allows users to set up branded fan pages that showcase top content and links, offering features such as gamified rewards to incentivize followers to share content.",
       technologies: [
-        "Pixi.js",
-        "React Pixi",
-        "Next.js",
-        "Zustand",
         "TypeScript",
+        "Tailwind CSS",
+        "Next.js",
+        "Nest.js",
+        "PostgreSQL",
       ],
       url: "glue.is",
       gradient: "from-blue-500/10 to-purple-500/10",

@@ -283,8 +283,7 @@ export default function Profile() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.5, duration: 0.5 }}
             >
-              Passionate about crafting accessible, pixel-perfect user
-              interfaces with robust engineering.
+              A Senior Software Engineer with a lovely cat 🐈
             </motion.p>
           </motion.div>
 

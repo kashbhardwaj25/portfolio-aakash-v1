@@ -102,9 +102,10 @@ const Stats = () => {
             SOFTWARE <span className="text-gray-600">ENGINEER</span>
           </motion.h2>
           <motion.h4 className="mt-6 md:mt-10 max-w-3xl text-gray-300 text-lg md:text-2xl">
-            My favorite work lies at the intersection of design and development,
-            creating experiences that look great while being meticulously built
-            for performance and usability.
+            Passionate about crafting accessible, pixel-perfect user interfaces
+            with robust engineering. My favorite work lies at the intersection
+            of design and development, creating experiences that look great
+            while being meticulously built for performance and usability.
           </motion.h4>
         </motion.div>
       </motion.div>

@@ -159,12 +159,12 @@ export default function Home() {
               </div>
 
               <div className="space-y-6 max-w-4xl">
-                <a
+                {/* <a
                   href="/contact"
                   className="inline-block bg-gradient-to-r from-indigo-500 hover:from-indigo-600 to-purple-500 hover:to-purple-600 shadow-indigo-500/20 shadow-lg px-8 py-4 rounded-xl w-full font-semibold text-center text-lg text-white transition-all duration-300 hover:scale-[1.02] active:scale-[0.98]"
                 >
                   Get in Touch
-                </a>
+                </a> */}
                 <div className="flex justify-center gap-6 pt-4">
                   <a
                     href={CONTACT_LINKS.github}
