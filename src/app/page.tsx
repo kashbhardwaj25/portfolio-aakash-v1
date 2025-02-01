@@ -6,7 +6,6 @@ import RecentProjects from "@/components/RecentProjects";
 import Experience from "@/components/Experience";
 import DesignThoughts from "@/components/DesignThoughts";
 import PremiumTools from "@/components/PremiumTools";
-import Certifications from "@/components/Certifications";
 import Resume from "@/components/Resume";
 import GitHubContributions from "@/components/GitHubContributions";
 import { useEffect, useState } from "react";
@@ -47,7 +46,7 @@ export default function Home() {
             <section aria-label="Statistics" className="hidden">
               <span itemProp="jobTitle">Software Engineer</span>
               <span itemProp="worksFor">Glue Labs</span>
-              <meta itemProp="email" content="yash.sh0031@gmail.com" />
+              <meta itemProp="email" content="aakashbhardwaj643@gmail.com" />
             </section>
 
             <section aria-label="Statistics">
@@ -94,7 +93,7 @@ export default function Home() {
               itemScope
               itemType="http://schema.org/DigitalDocument"
             >
-              <meta itemProp="name" content="Yash Sharma's Resume" />
+              <meta itemProp="name" content="Aakash Bhardwaj's Resume" />
               <Resume />
             </section>
 
@@ -194,21 +193,13 @@ export default function Home() {
                 </div>
               </div>
             </section>
-
-            <section
-              id="certifications"
-              aria-label="Certifications"
-              itemScope
-              itemType="http://schema.org/ItemList"
-            >
-              <meta itemProp="name" content="Professional Certifications" />
-              <Certifications />
-            </section>
           </main>
         </div>
 
         <footer className="mt-16 mb-20 md:mb-0 text-center text-gray-500">
-          <p>© {new Date().getFullYear()} Yash Sharma. All rights reserved.</p>
+          <p>
+            © {new Date().getFullYear()} Aakash Bhardwaj. All rights reserved.
+          </p>
         </footer>
       </div>
     </div>

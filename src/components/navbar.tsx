@@ -30,11 +30,6 @@ const navItems = [
     icon: <RiContactsLine className="text-lg" />,
     href: "#contact",
   },
-  {
-    text: "Certifications",
-    icon: <FaCertificate className="text-lg" />,
-    href: "#certifications",
-  },
 ];
 
 const mobileNavItems = [

@@ -60,19 +60,16 @@ const RecentProjects = () => {
       role: "Software Development Engineer and UI/UX Designer",
       duration: "06/2024 - Present",
       description:
-        "Developed a multi-platform AI integration tool with 5 different AI models, achieving 20% improvement in user experience through interface design.",
-      technologies: ["Next.js", "TypeScript", "Tailwind CSS"],
+        "Dashgen integrates with top providers like OpenAI, Anthropic, Google GenAI, Mistral AI, Groq, xAI and DeepSeek effortlessly. Unlike proprietary chatbot platforms, it doesn't pile on fees—giving you complete control over your budget.",
+      technologies: [
+        "TypeScript",
+        "Tailwind CSS",
+        "Next.js",
+        "Nest.js",
+        "PostgreSQL",
+      ],
       url: "dashgen.in",
       gradient: "from-purple-500/10 to-pink-500/10",
-    },
-    {
-      title: "xG",
-      role: "Software Development Engineer",
-      duration: "05/2023 - 12/2024",
-      description:
-        "Engineered a high-performance video creator app using Pixi.js and React Pixi.js, resulting in 20% faster rendering. Designed an advanced email edit tool increasing customization by 40%. Built an image positioning system with 10x customization accuracy.",
-      technologies: ["Next.js", "React-Email", "SVG", "Tailwind CSS"],
-      gradient: "from-pink-500/10 to-orange-500/10",
     },
   ];
 

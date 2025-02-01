@@ -7,25 +7,15 @@ const Experience = () => {
     {
       company: "Glue Labs",
       role: "Software Developer",
-      period: "06/2023 - Present",
+      period: "02/2021 - Present",
       responsibilities: [
-        "Architected and implemented a WebGL-based photo editing application using Pixi.js and React, achieving 30% faster rendering and improved memory management.",
-        "Engineered a sophisticated rich text editor in FIFO using Slate.js, implementing custom plugins for advanced formatting and auto-save features, resulting in 25% faster content creation.",
-        "Led the revamp of core UI/UX framework using Next.js and Tailwind, resulting in 20% increase in user engagement and improved customer satisfaction.",
-        "Developed a customizable email editor using React Email and custom components, improving template creation efficiency by 30%.",
-        "Streamlined the customer onboarding process through automated workflows, reducing setup time from 15 to 5 minutes.",
-      ],
-    },
-    {
-      company: "Glue Labs",
-      role: "Software Engineer Intern",
-      period: "03/2022 - 05/2023",
-      responsibilities: [
-        "Successfully migrated legacy React.js application to Next.js, implementing modern architecture patterns and improving overall application performance by 25%.",
-        "Developed and shipped a comprehensive commenting system with nested replies.",
-        "Engineered a 'People You May Know' feature using advanced algorithms and user behavior analysis.",
-        "Enhanced UI/UX with modern design patterns, implementing responsive layouts, smooth animations, and accessibility improvements across the platform.",
-        "Collaborated with the team to complete 100+ tickets, focusing on bug fixes, feature implementations, and UI enhancements using React.js and Next.js.",
+        "Hired, trained and led an Agile team of 14+ developers across FIFO and Glue web applications, fostering team growth and project success",
+        "Enhanced frontend performance through list virtualization and route-based code splitting, significantly optimizing site performance and load times",
+        "Led development of core features including authentication, posts, comments, pagination, search, and real-time chat, driving increased user engagement",
+        "Successfully migrated frontend from React to Next.js, improving SEO and reducing build times by 30% while enhancing code maintainability",
+        "Engineered features for 3+ products using Next.js and Nest.js, streamlining product management and boosting operational efficiency",
+        "Designed reusable UI components for Simpler (Cars24's Consumer Finance Panel) using React class components and HOCs",
+        "Integrated APIs for Cars24 using Redux for state management and Redux Thunk for efficient asynchronous operations",
       ],
     },
   ];

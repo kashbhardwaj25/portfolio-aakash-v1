@@ -85,7 +85,7 @@ function MobileProfile() {
         >
           <Image
             src="/images/profile.jpeg"
-            alt="Yash Sharma"
+            alt="Aakash Bhardwaj"
             className="relative rounded-2xl"
             fill
             sizes="(max-width: 768px) 280px, 280px"
@@ -112,7 +112,7 @@ function MobileProfile() {
             className="font-bold text-3xl text-white"
             whileHover={{ scale: 1.05 }}
           >
-            YASH SHARMA
+            Aakash Bhardwaj
           </motion.h1>
           <motion.h4
             className="text-center text-gray-400 text-sm leading-relaxed"
@@ -262,7 +262,7 @@ export default function Profile() {
             <motion.div className="absolute inset-0 bg-gradient-to-r from-blue-500/20 to-purple-500/20 rounded-2xl" />
             <Image
               src="/images/profile.jpeg"
-              alt="Yash Sharma"
+              alt="Aakash Bhardwaj"
               className="relative rounded-2xl"
               fill
               objectFit="cover"
@@ -274,7 +274,7 @@ export default function Profile() {
               className="font-bold text-4xl text-white"
               whileHover={{ scale: 1.05 }}
             >
-              YASH SHARMA
+              Aakash Bhardwaj
             </motion.h1>
 
             <motion.p
@@ -283,8 +283,8 @@ export default function Profile() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.5, duration: 0.5 }}
             >
-              A software engineer developing seamless user experiences with
-              modern web technologies.
+              Passionate about crafting accessible, pixel-perfect user
+              interfaces with robust engineering.
             </motion.p>
           </motion.div>
 

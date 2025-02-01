@@ -53,7 +53,7 @@ export default function Resume() {
           </div>
 
           <motion.a
-            href="/Yash-Sharma-Resume.pdf"
+            href="/Aakash-Bhardwaj-Resume.pdf"
             download
             className="flex items-center gap-2 bg-gradient-to-r from-blue-500 md:hover:from-blue-600 to-purple-500 md:hover:to-purple-600 px-6 md:px-8 py-3 md:py-4 rounded-xl font-semibold text-base text-white md:text-lg transition-all md:hover:scale-105 active:scale-95"
           >

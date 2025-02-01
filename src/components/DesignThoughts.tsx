@@ -6,7 +6,7 @@ import { useEffect, useState } from "react";
 import { getMediumPosts, type MediumPost } from "@/utils/medium";
 import Image from "next/image";
 
-const MEDIUM_PROFILE = "https://medium.com/@yash.sh0031";
+const MEDIUM_PROFILE = "https://medium.com/@aakashbhardwaj643";
 
 export default function DesignThoughts() {
   const [posts, setPosts] = useState<MediumPost[]>([]);

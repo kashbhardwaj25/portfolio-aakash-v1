@@ -68,11 +68,18 @@ const StatItem = ({ number, text, delay }: StatItemProps) => (
 const Stats = () => {
   const stats = [
     { number: "~4", text: "YEARS OF EXPERIENCE" },
-    { number: "+20", text: "PROJECTS COMPLETED" },
-    { number: "+28", text: "WORKED LIBRARIES" },
+    { number: "+4K", text: "GITHUB CONTRIBUTIONS" },
+    { number: "+30", text: "PROJECTS" },
   ];
 
   const projects = [
+    {
+      src: cicle,
+      icon: <FiLayers className="w-8 md:w-10 h-8 md:h-10" color="white" />,
+      title: "We are Codedash",
+      link: "https://www.codedash.in/",
+      isDark: true,
+    },
     {
       src: waves,
       icon: <MdOutlineChat className="w-8 md:w-10 h-8 md:h-10" color="black" />,
@@ -95,8 +102,9 @@ const Stats = () => {
             SOFTWARE <span className="text-gray-600">ENGINEER</span>
           </motion.h2>
           <motion.h4 className="mt-6 md:mt-10 max-w-3xl text-gray-300 text-lg md:text-2xl">
-            Passionate about creating intuitive and engaging user experiences.
-            Specialize in transforming ideas into beautifully crafted products.
+            My favorite work lies at the intersection of design and development,
+            creating experiences that look great while being meticulously built
+            for performance and usability.
           </motion.h4>
         </motion.div>
       </motion.div>

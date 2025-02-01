@@ -241,7 +241,7 @@ export default function ContactForm() {
         </button>
 
         <div className="flex sm:flex-row flex-col justify-between items-center gap-4 pt-4 text-sm text-zinc-500">
-          <p className="font-medium">Made with 💜 by Yash</p>
+          <p className="font-medium">Made with 💜 by Aakash</p>
           <div className="flex gap-4">
             <a
               href="https://twitter.com"
