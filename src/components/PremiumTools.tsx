@@ -8,14 +8,20 @@ import {
   SiReact,
   SiNextdotjs,
   SiTailwindcss,
-  SiWebgl,
-  SiPixiv,
-  SiFramer,
   SiRedux,
   SiGit,
-  SiAmazon,
   SiFirebase,
   SiSupabase,
+  SiRemix,
+  SiVuedotjs,
+  SiSvelte,
+  SiReduxsaga,
+  SiMaterialdesign,
+  SiGraphql,
+  SiNodedotjs,
+  SiPostgresql,
+  SiExpress,
+  SiNestjs,
 } from "react-icons/si";
 import { TbBrandReactNative } from "react-icons/tb";
 
@@ -34,20 +40,21 @@ const skillCategories = [
       { name: "React.js", icon: SiReact, color: "text-cyan-400" },
       { name: "Next.js", icon: SiNextdotjs, color: "text-white" },
       { name: "Tailwind CSS", icon: SiTailwindcss, color: "text-cyan-300" },
-    ],
-  },
-  {
-    title: "UI/Graphics",
-    items: [
-      { name: "WebGL", icon: SiWebgl, color: "text-red-400" },
-      { name: "Pixi.js", icon: SiPixiv, color: "text-pink-400" },
-      { name: "Framer Motion", icon: SiFramer, color: "text-purple-400" },
+      { name: "Remix", icon: SiRemix, color: "text-white" },
+      { name: "Vue.js", icon: SiVuedotjs, color: "text-emerald-400" },
+      { name: "Svelte", icon: SiSvelte, color: "text-orange-500" },
+      {
+        name: "Material Design",
+        icon: SiMaterialdesign,
+        color: "text-blue-400",
+      },
     ],
   },
   {
     title: "State Management",
     items: [
       { name: "Redux", icon: SiRedux, color: "text-purple-500" },
+      { name: "Redux Saga", icon: SiReduxsaga, color: "text-green-500" },
       { name: "React Query", icon: TbBrandReactNative, color: "text-red-400" },
       { name: "Zustand", icon: SiReact, color: "text-blue-400" },
     ],
@@ -56,9 +63,18 @@ const skillCategories = [
     title: "Tools",
     items: [
       { name: "Git", icon: SiGit, color: "text-orange-500" },
-      { name: "AWS", icon: SiAmazon, color: "text-yellow-500" },
       { name: "Firebase", icon: SiFirebase, color: "text-yellow-400" },
       { name: "Supabase", icon: SiSupabase, color: "text-emerald-500" },
+    ],
+  },
+  {
+    title: "Backend",
+    items: [
+      { name: "Node.js", icon: SiNodedotjs, color: "text-green-500" },
+      { name: "Express", icon: SiExpress, color: "text-gray-400" },
+      { name: "NestJS", icon: SiNestjs, color: "text-red-500" },
+      { name: "GraphQL", icon: SiGraphql, color: "text-pink-600" },
+      { name: "PostgreSQL", icon: SiPostgresql, color: "text-blue-400" },
     ],
   },
 ];
