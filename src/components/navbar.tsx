@@ -3,7 +3,7 @@
 import { motion, useScroll, AnimatePresence } from "framer-motion";
 import { HiHome } from "react-icons/hi";
 import { MdWork, MdArticle } from "react-icons/md";
-import { FaProjectDiagram, FaTools, FaCertificate } from "react-icons/fa";
+import { FaProjectDiagram, FaTools } from "react-icons/fa";
 import { RiContactsLine } from "react-icons/ri";
 import { useEffect, useState } from "react";
 import { usePathname } from "next/navigation";
