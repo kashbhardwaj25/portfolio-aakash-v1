@@ -40,22 +40,6 @@ const RecentProjects = () => {
 
   const projects = [
     {
-      title: "Glue",
-      role: "Software Development Engineer",
-      duration: "03/2022 - Present",
-      description:
-        "Orchestrated a canvas using Pixi.js and React-pixi with WebGL rendering for high-performance 2D graphics processing, achieving 30% more efficiency. Traced performance bottlenecks resulting in a 150ms reduction in load time.",
-      technologies: [
-        "Pixi.js",
-        "React Pixi",
-        "Next.js",
-        "Zustand",
-        "TypeScript",
-      ],
-      url: "glue.is",
-      gradient: "from-blue-500/10 to-purple-500/10",
-    },
-    {
       title: "Dashgen",
       role: "Software Development Engineer and UI/UX Designer",
       duration: "06/2024 - Present",
@@ -70,6 +54,22 @@ const RecentProjects = () => {
       ],
       url: "dashgen.in",
       gradient: "from-purple-500/10 to-pink-500/10",
+    },
+    {
+      title: "Glue",
+      role: "Software Development Engineer",
+      duration: "03/2024 - Present",
+      description:
+        "Glue.is is a platform designed to help creators and brands enhance follower engagement and increase monetization. It allows users to set up branded fan pages that showcase top content and links, offering features such as gamified rewards to incentivize followers to share content.",
+      technologies: [
+        "Pixi.js",
+        "React Pixi",
+        "Next.js",
+        "Zustand",
+        "TypeScript",
+      ],
+      url: "glue.is",
+      gradient: "from-blue-500/10 to-purple-500/10",
     },
   ];
 
