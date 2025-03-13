@@ -109,7 +109,7 @@ function MobileProfile() {
           animate="animate"
         >
           <motion.h1
-            className="font-bold text-3xl text-white"
+            className="font-bold text-2xl text-white text-center sm:text-3xl"
             whileHover={{ scale: 1.05 }}
           >
             Aakash Bhardwaj
