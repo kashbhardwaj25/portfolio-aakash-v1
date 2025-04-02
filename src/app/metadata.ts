@@ -2,7 +2,7 @@ import { Metadata } from "next";
 
 const SITE_URL = "https://aakashbhardwaj.com";
 const PROFILE_DESCRIPTION =
-  "Senior software engineer with over 4 years of experience, specializing in React, Next.js, and modern web technologies. Experienced in building exceptional digital experiences with expertise in TypeScript, React Native, and UI/UX design.";
+  "Senior software engineer with over 6 years of experience, specializing in React, Next.js, and modern web technologies. Experienced in building exceptional digital experiences with expertise in TypeScript, React Native, and UI/UX design.";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
