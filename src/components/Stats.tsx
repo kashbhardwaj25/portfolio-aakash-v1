@@ -67,7 +67,7 @@ const StatItem = ({ number, text, delay }: StatItemProps) => (
 
 const Stats = () => {
   const stats = [
-    { number: "~6", text: "YEARS OF EXPERIENCE" },
+    { number: "~4", text: "YEARS OF EXPERIENCE" },
     { number: "+4K", text: "GITHUB CONTRIBUTIONS" },
     { number: "+30", text: "PROJECTS" },
   ];

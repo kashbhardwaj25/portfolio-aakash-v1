@@ -7,7 +7,7 @@ const Experience = () => {
     {
       company: "Glue Labs",
       role: "Software Developer",
-      period: "02/2019 - Present",
+      period: "02/2021 - Present",
       responsibilities: [
         "Hired, trained and led an Agile team of 14+ developers across FIFO and Glue web applications, fostering team growth and project success",
         "Enhanced frontend performance through list virtualization and route-based code splitting, significantly optimizing site performance and load times",
